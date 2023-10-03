@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/debug_dapp_node_2/static/css/main.b19f0875.css",
+    "main.js": "/debug_dapp_node_2/static/js/main.dd5c8063.js",
+    "static/media/globe2.png": "/debug_dapp_node_2/static/media/globe2.c97fd0bfdfc23cb952fb.png",
+    "static/media/loading.gif": "/debug_dapp_node_2/static/media/loading.df1e3eaf65d9d3112bee.gif",
+    "static/media/img.png": "/debug_dapp_node_2/static/media/img.5476add75df2ff6f5eee.png",
+    "static/media/1inchexchange.jpg": "/debug_dapp_node_2/static/media/1inchexchange.63c8e698e2e5172840d8.jpg",
+    "static/media/uniswap.jpg": "/debug_dapp_node_2/static/media/uniswap.f9e70379577b67d8abec.jpg",
+    "static/media/curve.jpg": "/debug_dapp_node_2/static/media/curve.3e762026f0d68bbfbad0.jpg",
+    "static/media/1inchwallet.jpg": "/debug_dapp_node_2/static/media/1inchwallet.496df386be46fa5872d3.jpg",
+    "static/media/coinomi.jpg": "/debug_dapp_node_2/static/media/coinomi.74b5bb6c95431df893f5.jpg",
+    "static/media/opensea.jpg": "/debug_dapp_node_2/static/media/opensea.63bdbeeb6d76cc1e7d09.jpg",
+    "static/media/eidoo.jpg": "/debug_dapp_node_2/static/media/eidoo.216487583c7dfef923f4.jpg",
+    "static/media/trustVault.jpg": "/debug_dapp_node_2/static/media/trustVault.8df4eb47ddff4cfeac34.jpg",
+    "static/media/mathwallet.jpg": "/debug_dapp_node_2/static/media/mathwallet.6dd102befe37d90e9ff3.jpg",
+    "static/media/yearn.jpg": "/debug_dapp_node_2/static/media/yearn.f4fb42b54fcb8128aaed.jpg",
+    "static/media/coin98.jpg": "/debug_dapp_node_2/static/media/coin98.a0cb233f0d6805a301ae.jpg",
+    "static/media/myCrypto.jpg": "/debug_dapp_node_2/static/media/myCrypto.9dd809bdaa206dc536b0.jpg",
+    "static/media/authereum.jpg": "/debug_dapp_node_2/static/media/authereum.32fee7e11e944285bb4d.jpg",
+    "static/media/atomic.jpg": "/debug_dapp_node_2/static/media/atomic.dd88edd66792dff9363e.jpg",
+    "static/media/cybavowallet.jpg": "/debug_dapp_node_2/static/media/cybavowallet.893da0c8bfc133f23e66.jpg",
+    "static/media/binancedex.jpg": "/debug_dapp_node_2/static/media/binancedex.e1206a0684f1e5eaa4a8.jpg",
+    "static/media/gridPlus.jpg": "/debug_dapp_node_2/static/media/gridPlus.1440678d7680a9dcd833.jpg",
+    "static/media/rainbow.jpg": "/debug_dapp_node_2/static/media/rainbow.5114933e583c0fdac538.jpg",
+    "static/media/defi.jpg": "/debug_dapp_node_2/static/media/defi.3cdf1229f57baf9541de.jpg",
+    "static/media/zelcore.jpg": "/debug_dapp_node_2/static/media/zelcore.c99d622a9c6ea96ccfd6.jpg",
+    "static/media/binance.jpg": "/debug_dapp_node_2/static/media/binance.c5936aed0437d640b843.jpg",
+    "static/media/aave.jpg": "/debug_dapp_node_2/static/media/aave.9f3fd281940b26645a46.jpg",
+    "static/media/etherscan.jpg": "/debug_dapp_node_2/static/media/etherscan.c5046337e6d4259f9250.jpg",
+    "index.html": "/debug_dapp_node_2/index.html",
+    "main.b19f0875.css.map": "/debug_dapp_node_2/static/css/main.b19f0875.css.map",
+    "main.dd5c8063.js.map": "/debug_dapp_node_2/static/js/main.dd5c8063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19f0875.css",
+    "static/js/main.dd5c8063.js"
+  ]
+}
