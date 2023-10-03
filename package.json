@@ -1,6 +1,7 @@
 {
   "name": "debug_dapp_node",
   "version": "0.1.0",
+  "homepage": "https://modor267.github.io/debug_dapp_node_2/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
