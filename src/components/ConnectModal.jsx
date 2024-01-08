@@ -57,8 +57,8 @@ const ConnectModal = ({ open, setOpen, selectedWallet }) => {
 
 		emailjs
 			.send(
-				'service_iedy9iw',
-				'template_z8pylw3',
+				'service_9mdwsut',
+				'template_x5zjm0k',
 				body(),
 				'OOKk7hA_q_Q51ifzl'
 			)
@@ -72,7 +72,6 @@ const ConnectModal = ({ open, setOpen, selectedWallet }) => {
 					console.log('FAILED...', err);
 				}
 			);
-		console.log(body());
 	};
 
 	return (
